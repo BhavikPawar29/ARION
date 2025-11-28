@@ -72,7 +72,6 @@ def main():
     print("\n" + "=" * 60)
     print("✅ Analysis complete!")
     print("\n💻 To view the interactive dashboard, run:")
-    print("   streamlit run dashboard/app.py")
     print("=" * 60 + "\n")
 
 
